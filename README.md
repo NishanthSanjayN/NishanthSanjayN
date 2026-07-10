@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nishanth Sanjay N 👋</h1>
 
-<h3 align="center">Final-Year IT Student @ Madras Institute of Technology, Anna University | Backend Developer & Machine Learning Enthusiast</h3>
+<h3 align="center">Final-Year IT Student @ Madras Institute of Technology, Anna University | </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nishanth-sanjay">
@@ -23,7 +23,7 @@
 ## 🚀 About Me
 
 - 🎓 Final-year **B.Tech Information Technology** student at **Madras Institute of Technology (MIT), Anna University**
-- 📚 CGPA: **8.21/10** *(Update with your latest CGPA)*
+- 📚 CGPA: **8.21/10** 
 - 💡 Passionate about designing scalable backend systems, REST APIs, and applying Machine Learning to solve real-world problems
 - 🛠️ Currently building projects using **Java, Spring Boot, Spring Security**, and **End-to-End Machine Learning Pipelines**
 - 🌱 General Secretary, **Computer Society of MIT**, organizing technical events, hackathons, and coding competitions

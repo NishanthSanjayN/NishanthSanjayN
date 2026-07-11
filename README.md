@@ -91,9 +91,9 @@
 
 | Project | Description |
 |---------|-------------|
-| 🎓 **LearnSphere** | A scalable e-learning platform built using **Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, and MySQL** following MVC architecture, SOLID principles, and role-based authentication.<br><br>🔗 **GitHub:** *[Add Link](https://github.com/NishanthSanjayN/OnlineLearningPlatform)* &nbsp; • &nbsp; |
+| 🎓 **LearnSphere** | A scalable e-learning platform built using **Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, and MySQL** following MVC architecture, SOLID principles, and role-based authentication.<br><br>🔗 **GitHub:** *(https://github.com/NishanthSanjayN/OnlineLearningPlatform)* &nbsp; • &nbsp; |
 | 📊 **Customer Churn Prediction System** | End-to-end Machine Learning pipeline involving preprocessing, feature engineering, EDA, model training, evaluation, and deployment using Streamlit. Achieved **90%+ accuracy** while comparing Logistic Regression, Random Forest, XGBoost, and SVM using Precision, Recall, F1-score, and ROC-AUC.<br><br>🔗 **Live Demo:** *(https://nishanthsanjayn-customer-churn-ml-app-u8j39t.streamlit.app/)* |
-| 🏦 **FinCore – Banking Management System** | Developed a Java-based banking system supporting account creation, deposits, withdrawals, fund transfers, transaction persistence, and fraud detection. Optimized account retrieval using **HashMap (O(1))**, improving lookup performance over linear search.<br><br>🔗 **GitHub:** [*(https://github.com/NishanthSanjayN/BankingManagement-DSA)* |
+| 🏦 **FinCore – Banking Management System** | Developed a Java-based banking system supporting account creation, deposits, withdrawals, fund transfers, transaction persistence, and fraud detection. Optimized account retrieval using **HashMap (O(1))**, improving lookup performance over linear search.<br><br>🔗 **GitHub:** *(https://github.com/NishanthSanjayN/BankingManagement-DSA)* |
 
 ---
 
@@ -143,5 +143,5 @@
 </p>
 
 <p align="center">
-<i>Always excited to collaborate on impactful software projects and open to opportunities in Software Development, Backend Engineering, and Machine Learning.</i>
+<i>Always excited to collaborate on impactful software projects and open to opportunities in Software Development.</i>
 </p>

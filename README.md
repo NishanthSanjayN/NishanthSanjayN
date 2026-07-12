@@ -109,7 +109,6 @@
 # 📜 Certifications
 
 - Google Cloud Engineering Badge
-- *(Add Oracle Cloud / AWS / HackerRank Certifications if available)*
 
 ---
 
